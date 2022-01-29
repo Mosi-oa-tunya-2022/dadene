@@ -27,12 +27,15 @@ An open source blockchain that works as platform for other cryptocurrencies main
 ![Ethereum](Images/Ethereum.jpg)
 ## Litecoin
 This cryptocurrency operates the same way as the Bitcoin does and is the 2nd popular choice among those who use crypto for peer to peer transaction. It was created by Charlie Lee who was once employed by Google. The market cap for this coin is $7.6 billion.
+
 ![Litecoin](Images/Litecoin.jpg)
 ## Cosmos
 Cosmos calls itself a project that aims to solve some of the hardest problems facing the blockchain industry. This crypto plans on solving all blockchain problems dealing with scalability, efficiency, and a negative environmental impact. Co-founders Jae Kwon, Ethan Buchman, and Zarko Milosevic have high hopes this project will take off. The market cap for Cosmos is $8.4 billion. 
+
 ![Cosmos](Images/Cosmos.jpg)
 ## Solana
 Solana is an open source project that uses blockchain technology's permissionless nature to provide decentralized finance solutions. The idea of this crypto started in 2017 by Anatoly Yakovenko and launched in 2020 by the Solana Foundation. The current market cap for Solana is $28 billion. 
+
 ![Solana](Images/Solana.jpg)
 
 ---
